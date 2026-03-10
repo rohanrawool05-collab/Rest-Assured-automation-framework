@@ -139,9 +139,6 @@ mvn clean test -Dcucumber.filter.tags="@Smoke"
 7. **Data-Driven** - Parameterized test support
 8. **Hooks** - Setup and teardown mechanisms
 
-## Author
-
-REST API Automation Framework - 2024
 =======
 # Rest-Assured-automation-framework
 >>>>>>> 6be29aa065ee689b08c2a341310701ad70df81bb
