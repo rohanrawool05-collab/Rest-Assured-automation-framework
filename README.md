@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # REST API Automation Framework
 
 A comprehensive REST API automation framework built with REST Assured, Cucumber BDD, and Maven.
@@ -141,3 +142,6 @@ mvn clean test -Dcucumber.filter.tags="@Smoke"
 ## Author
 
 REST API Automation Framework - 2024
+=======
+# Rest-Assured-automation-framework
+>>>>>>> 6be29aa065ee689b08c2a341310701ad70df81bb
